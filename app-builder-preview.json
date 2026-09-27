@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SAID",
+      "hasCanvas": false,
+      "bodyTextLen": 207,
+      "bodyTextHash": "a2443036ed01700adfd2305fb1c6c5637fcb4f2500d42d6a511055cb206d80df",
+      "bodyTextPrefix": "SAID EN STUDIO SAID مساعد برمجي يكتب الكود ويفهمه من كل زاوية. ك",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SAID",
+      "hasCanvas": false,
+      "bodyTextLen": 207,
+      "bodyTextHash": "a2443036ed01700adfd2305fb1c6c5637fcb4f2500d42d6a511055cb206d80df",
+      "bodyTextPrefix": "SAID EN STUDIO SAID مساعد برمجي يكتب الكود ويفهمه من كل زاوية. ك",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
